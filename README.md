@@ -21,7 +21,7 @@ This challenge is for displaying a stats preview card component Ui/UX. It is my 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://yashika-sharma.github.io/stats-preview-card-component-main/](https://yashika-sharma.github.io/stats-preview-card-component-main/)
 
 ### Built with
 
