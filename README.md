@@ -8,7 +8,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-- [Author](#author)
+
 
 ## Overview
 
@@ -20,7 +20,7 @@ This challenge is for displaying a stats preview card component Ui/UX. It is my 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-card-with-html-and-css-7JoVVpqW_](https://www.frontendmentor.io/solutions/stats-card-with-html-and-css-7JoVVpqW_)
 - Live Site URL: [https://yashika-sharma.github.io/stats-preview-card-component-main/](https://yashika-sharma.github.io/stats-preview-card-component-main/)
 
 ### Built with
@@ -29,7 +29,6 @@ This challenge is for displaying a stats preview card component Ui/UX. It is my 
 - CSS custom properties
 - Flexbox
 
-## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
+
